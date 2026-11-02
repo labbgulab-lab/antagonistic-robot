@@ -91,7 +91,7 @@ All LLM prompts include mandatory, non-removable safety boundaries. These are en
 
 ```bash
 # Clone the repository
-git clone https://github.com/Tomer232/antagonistic-robot.git
+git clone https://github.com/labbgulab-lab/antagonistic-robot.git
 cd antagonistic-robot
 
 # Create and activate virtual environment
